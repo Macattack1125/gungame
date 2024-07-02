@@ -1,0 +1,22 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1719954957
+fedyys_stand-removebg-preview (1).png::CompressedTexture2D::4539292204622716934::1719267390::1719267481::1::::<><>::
+foxy (1).png::CompressedTexture2D::2622379441761629309::1719269734::1719269737::1::::<><>::
+icon.svg::CompressedTexture2D::2116395028907700904::1718758921::1718758931::1::::<><>::
+image (2).png::CompressedTexture2D::6513921662685490694::1719359545::1719359560::1::::<><>::
+sinprotyernt-removebg-preview-removebg-preview-removebg-preview.png::CompressedTexture2D::6735591483170621227::1719268359::1719268415::1::::<><>::
+sinprotyernt.png::CompressedTexture2D::1878678610915852171::1719268251::1719268257::1::::<><>::
+::res://addons/::1719176513
+::res://addons/AS2P/::1719176513
+InspectorConvertor.gd::GDScript::-1::1719176513::0::1::::<>EditorInspectorPlugin<>::
+NodeSelectorProperty.gd::GDScript::-1::1719176513::0::1::::<>EditorProperty<>::
+plugin.cfg::TextFile::-1::1719176513::0::1::::<><>::
+plugin.gd::GDScript::-1::1719176513::0::1::::<>EditorPlugin<>::
+::res://Dte-Game-Run-adn-Gun/::1719451498
+character_body_2d.tscn::PackedScene::4679771747353344643::1719451425::0::1::::<><>::res://Dte-Game-Run-adn-Gun/player.gd<>uid://cy2nlq3h6jwaw::::res://image (2).png<>uid://da6knpkytqc5i::::res://damage roxy.png
+node_2d.tscn::PackedScene::4940470319112429072::1718852350::0::1::::<><>::
+player.gd::GDScript::-1::1719451043::0::1::::<>CharacterBody2D<>::
+world.tscn::PackedScene::5339354270039870818::1719451498::0::1::::<><>::uid://b7w6flo8s2inr::::res://Dte-Game-Run-adn-Gun/character_body_2d.tscn
+::res://Dungeon Tile Set/::1718760286
+::res://Dungeon Tile Set/Dungeon Tile Set/::1718850321
+Dungeon Tile Set.png::CompressedTexture2D::7532376708492134479::1718760286::1718760286::1::::<><>::
