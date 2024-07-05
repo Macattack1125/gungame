@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://crm64pf7isd8"
-path="res://.godot/imported/Dungeon Tile Set222222.png-274a43378f38e815eb3d3ed03b963961.ctex"
+uid="uid://hs7e2cjy4xo4"
+path="res://.godot/imported/Dungeon Tile  for jump.png-a35fb35b48f950d58e691481eaaa2324.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Tile Set222222.png"
-dest_files=["res://.godot/imported/Dungeon Tile Set222222.png-274a43378f38e815eb3d3ed03b963961.ctex"]
+source_file="res://Dungeon Tile  for jump.png"
+dest_files=["res://.godot/imported/Dungeon Tile  for jump.png-a35fb35b48f950d58e691481eaaa2324.ctex"]
 
 [params]
 
