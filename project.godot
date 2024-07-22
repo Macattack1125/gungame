@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Dte Run and Gun"
+run/main_scene="res://Dte-Game-Run-adn-Gun/world.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
