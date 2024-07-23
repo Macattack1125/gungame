@@ -1,3 +1,6 @@
+TextureRect
+ParallaxLayer
+ParallaxBackground
 Camera2D
 TileMap
 CollisionShape2D
