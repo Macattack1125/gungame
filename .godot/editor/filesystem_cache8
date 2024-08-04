@@ -1,19 +1,36 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1722492486
-damage roxy.png::CompressedTexture2D::4061820253697175960::1722492435::1722492435::1::::<><>::
-Dungeon Tile  for jump.png::CompressedTexture2D::530432213645669597::1722492434::1722492434::1::::<><>::
-fedyys_stand-removebg-preview (1).png::CompressedTexture2D::4539292204622716934::1722492435::1722492435::1::::<><>::
-foxy (1).png::CompressedTexture2D::2622379441761629309::1722492435::1722492435::1::::<><>::
-icon.svg::CompressedTexture2D::2116395028907700904::1722492435::1722492488::1::::<><>::
-image (2).png::CompressedTexture2D::6513921662685490694::1722492435::1722492435::1::::<><>::
-sinprotyernt-removebg-preview-removebg-preview-removebg-preview.png::CompressedTexture2D::6735591483170621227::1722492435::1722492435::1::::<><>::
-sinprotyernt.png::CompressedTexture2D::1878678610915852171::1722492435::1722492435::1::::<><>::
-::res://addons/::1722492435
-::res://addons/AS2P/::1722492435
-InspectorConvertor.gd::GDScript::-1::1722492435::0::1::::<>EditorInspectorPlugin<>::
-NodeSelectorProperty.gd::GDScript::-1::1722492435::0::1::::<>EditorProperty<>::
-plugin.cfg::TextFile::-1::1722492435::0::1::::<><>::
-plugin.gd::GDScript::-1::1722492435::0::1::::<>EditorPlugin<>::
-::res://Dungeon Tile Set/::1722492434
-::res://Dungeon Tile Set/Dungeon Tile Set/::1722492435
-Dungeon Tile Set.png::CompressedTexture2D::7532376708492134479::1722492434::1722492435::1::::<><>::
+::res://::1722811003
+damage roxy.png::CompressedTexture2D::4061820253697175960::1719955846::1719955849::1::::<><>::
+Dungeon Tile  for jump.png::CompressedTexture2D::530432213645669597::1720138655::1720138657::1::::<><>::
+export_presets.cfg::TextFile::-1::1722810956::0::1::::<><>::
+fanf background.png::CompressedTexture2D::6458076149726115121::1721702878::1721702879::1::::<><>::
+fedyys_stand-removebg-preview (1).png::CompressedTexture2D::4539292204622716934::1719267390::1719267481::1::::<><>::
+foxy (1).png::CompressedTexture2D::2622379441761629309::1719269734::1719269737::1::::<><>::
+icon.svg::CompressedTexture2D::2116395028907700904::1718758921::1722811005::1::::<><>::
+image (2).png::CompressedTexture2D::6513921662685490694::1719359545::1719359560::1::::<><>::
+images (1).jpg::CompressedTexture2D::1432606590998440592::1721702412::1721702401::1::::<><>::
+images.jpg::CompressedTexture2D::2116667507895260779::1721702415::1721702415::1::::<><>::
+poster 2.jpg::CompressedTexture2D::5145553479402353526::1722810956::1722810956::1::::<><>::
+poster 3.png::CompressedTexture2D::3682121608143262546::1722810956::1722810956::1::::<><>::
+poster_fanf_1-removebg-preview.png::CompressedTexture2D::7800298948119717721::1722810956::1722810956::1::::<><>::
+psoetr 5.jpg::CompressedTexture2D::6671023497847887804::1722810956::1722810956::1::::<><>::
+sinprotyernt-removebg-preview-removebg-preview-removebg-preview.png::CompressedTexture2D::6735591483170621227::1719268359::1719268415::1::::<><>::
+sinprotyernt.png::CompressedTexture2D::1878678610915852171::1719268251::1719268257::1::::<><>::
+::res://addons/::1719176513
+::res://addons/AS2P/::1719176513
+InspectorConvertor.gd::GDScript::-1::1719176513::0::1::::<>EditorInspectorPlugin<>::
+NodeSelectorProperty.gd::GDScript::-1::1719176513::0::1::::<>EditorProperty<>::
+plugin.cfg::TextFile::-1::1719176513::0::1::::<><>::
+plugin.gd::GDScript::-1::1719176513::0::1::::<>EditorPlugin<>::
+::res://Dte-Game-Run-adn-Gun/::1721946162
+character_body_2d.tscn::PackedScene::4679771747353344643::1721946161::0::1::::<><>::res://Dte-Game-Run-adn-Gun/player.gd<>uid://cy2nlq3h6jwaw::::res://image (2).png<>uid://bx4tt6tuxgtky::::res://damage roxy.png
+node_2d.tscn::PackedScene::4940470319112429072::1718852350::0::1::::<><>::
+player.gd::GDScript::-1::1720137240::0::1::::<>CharacterBody2D<>::
+world.tscn::PackedScene::5339354270039870818::1721946162::0::1::::<><>::uid://b7w6flo8s2inr::::res://Dte-Game-Run-adn-Gun/character_body_2d.tscn<>uid://dfk0e5lv41ptn::::res://Dungeon Tile Set/Dungeon Tile Set/Dungeon Tile Set.png<>uid://hs7e2cjy4xo4::::res://Dungeon Tile  for jump.png<>uid://cyaltnw2e4sgv::::res://fanf background.png<>uid://djer1wl2wp0wr::::res://poster_fanf_1-removebg-preview.png<>uid://cfksrqhqd0r1g::::res://poster 2.jpg<>uid://bspwafxow2jo1::::res://poster 3.png
+::res://Dungeon Tile Set/::1718760286
+::res://Dungeon Tile Set/Dungeon Tile Set/::1718850321
+Dungeon Tile Set.png::CompressedTexture2D::7532376708492134479::1718760286::1718760286::1::::<><>::
+::res://Web/::1722810956
+index.apple-touch-icon.png::CompressedTexture2D::280817068079295440::1722810954::1722810954::1::::<><>::
+index.icon.png::CompressedTexture2D::7929085317263991216::1722810955::1722810955::1::::<><>::
+index.png::CompressedTexture2D::1543764807653876227::1722810955::1722810955::1::::<><>::
