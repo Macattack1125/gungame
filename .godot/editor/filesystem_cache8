@@ -1,5 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1722811003
+::res://::1722902310
+cupcake points (1).png::CompressedTexture2D::2990015141214310665::1722901446::1722901447::1::::<><>::
+cupcake points (2).png::CompressedTexture2D::4165762829981639097::1722902310::1722902312::1::::<><>::
 damage roxy.png::CompressedTexture2D::4061820253697175960::1719955846::1719955849::1::::<><>::
 Dungeon Tile  for jump.png::CompressedTexture2D::530432213645669597::1720138655::1720138657::1::::<><>::
 export_presets.cfg::TextFile::-1::1722810956::0::1::::<><>::
@@ -22,11 +24,11 @@ InspectorConvertor.gd::GDScript::-1::1719176513::0::1::::<>EditorInspectorPlugin
 NodeSelectorProperty.gd::GDScript::-1::1719176513::0::1::::<>EditorProperty<>::
 plugin.cfg::TextFile::-1::1719176513::0::1::::<><>::
 plugin.gd::GDScript::-1::1719176513::0::1::::<>EditorPlugin<>::
-::res://Dte-Game-Run-adn-Gun/::1721946162
+::res://Dte-Game-Run-adn-Gun/::1722901413
 character_body_2d.tscn::PackedScene::4679771747353344643::1721946161::0::1::::<><>::res://Dte-Game-Run-adn-Gun/player.gd<>uid://cy2nlq3h6jwaw::::res://image (2).png<>uid://bx4tt6tuxgtky::::res://damage roxy.png
 node_2d.tscn::PackedScene::4940470319112429072::1718852350::0::1::::<><>::
 player.gd::GDScript::-1::1720137240::0::1::::<>CharacterBody2D<>::
-world.tscn::PackedScene::5339354270039870818::1721946162::0::1::::<><>::uid://b7w6flo8s2inr::::res://Dte-Game-Run-adn-Gun/character_body_2d.tscn<>uid://dfk0e5lv41ptn::::res://Dungeon Tile Set/Dungeon Tile Set/Dungeon Tile Set.png<>uid://hs7e2cjy4xo4::::res://Dungeon Tile  for jump.png<>uid://cyaltnw2e4sgv::::res://fanf background.png<>uid://djer1wl2wp0wr::::res://poster_fanf_1-removebg-preview.png<>uid://cfksrqhqd0r1g::::res://poster 2.jpg<>uid://bspwafxow2jo1::::res://poster 3.png
+world.tscn::PackedScene::5339354270039870818::1722900694::0::1::::<><>::uid://b7w6flo8s2inr::::res://Dte-Game-Run-adn-Gun/character_body_2d.tscn<>uid://dfk0e5lv41ptn::::res://Dungeon Tile Set/Dungeon Tile Set/Dungeon Tile Set.png<>uid://hs7e2cjy4xo4::::res://Dungeon Tile  for jump.png<>uid://cyaltnw2e4sgv::::res://fanf background.png<>uid://djer1wl2wp0wr::::res://poster_fanf_1-removebg-preview.png<>uid://cfksrqhqd0r1g::::res://poster 2.jpg<>uid://bspwafxow2jo1::::res://poster 3.png
 ::res://Dungeon Tile Set/::1718760286
 ::res://Dungeon Tile Set/Dungeon Tile Set/::1718850321
 Dungeon Tile Set.png::CompressedTexture2D::7532376708492134479::1718760286::1718760286::1::::<><>::
