@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1723084650
+::res://::1723408806
 cuopcake creepy.png ee e e (1).png::CompressedTexture2D::4438513990635588326::1723083683::1723083760::1::::<><>::
 cuopcake creepy.png ee e e.png::CompressedTexture2D::8702948992647378495::1723083036::1723083214::1::::<><>::
 cuopcake_creepy.png_ee_e_e-removebg-preview.png::CompressedTexture2D::5203842083645918337::1723083303::1723083320::1::::<><>::
@@ -28,17 +28,17 @@ InspectorConvertor.gd::GDScript::-1::1719176513::0::1::::<>EditorInspectorPlugin
 NodeSelectorProperty.gd::GDScript::-1::1719176513::0::1::::<>EditorProperty<>::
 plugin.cfg::TextFile::-1::1719176513::0::1::::<><>::
 plugin.gd::GDScript::-1::1719176513::0::1::::<>EditorPlugin<>::
-::res://Dte-Game-Run-adn-Gun/::1723084339
-cupcake.gd::GDScript::-1::1722903192::0::1::::<>Area2D<>::
-cupcake.tscn::PackedScene::1195719364332633967::1723084226::0::1::::<><>::uid://b0l6rf8040hxx::::res://cupcake points (2).png<>res://Dte-Game-Run-adn-Gun/cupcake.gd
-Foxy.tscn::PackedScene::4679771747353344643::1723084226::0::1::::<><>::res://Dte-Game-Run-adn-Gun/player.gd<>uid://cy2nlq3h6jwaw::::res://image (2).png<>uid://bx4tt6tuxgtky::::res://damage roxy.png
+::res://Dte-Game-Run-adn-Gun/::1723085922
+cupcake.gd::GDScript::-1::1723085274::0::1::::<>Area2D<>::
+cupcake.tscn::PackedScene::1195719364332633967::1723085642::0::1::::<><>::uid://b0l6rf8040hxx::::res://cupcake points (2).png<>res://Dte-Game-Run-adn-Gun/cupcake.gd
+evil_cupcake.gd::GDScript::-1::1723084207::0::1::::<>Area2D<>::
+evil_cupcake.tscn::PackedScene::3655848945019550808::1723085642::0::1::::<><>::uid://b4ibxas4w0b2e::::res://cuopcake creepy.png ee e e (1).png<>res://Dte-Game-Run-adn-Gun/evil_cupcake.gd
+Foxy.tscn::PackedScene::4679771747353344643::1723085641::0::1::::<><>::res://Dte-Game-Run-adn-Gun/player.gd<>uid://cy2nlq3h6jwaw::::res://image (2).png<>uid://bx4tt6tuxgtky::::res://damage roxy.png
 item-feedback.png::CompressedTexture2D::7872234389004297054::1723084339::1723084339::1::::<><>::
 node_2d.tscn::PackedScene::4940470319112429072::1718852350::0::1::::<><>::
 player.gd::GDScript::-1::1720137240::0::1::::<>CharacterBody2D<>::
-evil_cupcake.tscn::PackedScene::3655848945019550808::1723084227::0::1::::<><>::uid://b4ibxas4w0b2e::::res://cuopcake creepy.png ee e e (1).png<>res://Dte-Game-Run-adn-Gun/evil_cupcake.gd
-evil_cupcake.gd::GDScript::-1::1723084207::0::1::::<>Area2D<>::
-vanish.tscn::PackedScene::5010342594038302734::1723084227::0::1::::<><>::
-world.tscn::PackedScene::5339354270039870818::1723084226::0::1::::<><>::uid://b7w6flo8s2inr::::res://Dte-Game-Run-adn-Gun/Foxy.tscn<>uid://dfk0e5lv41ptn::::res://Dungeon Tile Set/Dungeon Tile Set/Dungeon Tile Set.png<>uid://hs7e2cjy4xo4::::res://Dungeon Tile  for jump.png<>uid://cyaltnw2e4sgv::::res://fanf background.png<>uid://djer1wl2wp0wr::::res://poster_fanf_1-removebg-preview.png<>uid://cfksrqhqd0r1g::::res://poster 2.jpg<>uid://bspwafxow2jo1::::res://poster 3.png<>uid://rbhk8wm6r71d::::res://Dte-Game-Run-adn-Gun/cupcake.tscn<>uid://bsc6keqr2ewxc::::res://Dte-Game-Run-adn-Gun/evil_cupcake.tscn
+vanish.tscn::PackedScene::5010342594038302734::1723085642::0::1::::<><>::uid://clka3rj4hqen5::::res://item-feedback.png
+world.tscn::PackedScene::5339354270039870818::1723085922::0::1::::<><>::uid://b7w6flo8s2inr::::res://Dte-Game-Run-adn-Gun/Foxy.tscn<>uid://dfk0e5lv41ptn::::res://Dungeon Tile Set/Dungeon Tile Set/Dungeon Tile Set.png<>uid://hs7e2cjy4xo4::::res://Dungeon Tile  for jump.png<>uid://cyaltnw2e4sgv::::res://fanf background.png<>uid://djer1wl2wp0wr::::res://poster_fanf_1-removebg-preview.png<>uid://cfksrqhqd0r1g::::res://poster 2.jpg<>uid://bspwafxow2jo1::::res://poster 3.png<>uid://rbhk8wm6r71d::::res://Dte-Game-Run-adn-Gun/cupcake.tscn<>uid://bsc6keqr2ewxc::::res://Dte-Game-Run-adn-Gun/evil_cupcake.tscn
 ::res://Dungeon Tile Set/::1718760286
 ::res://Dungeon Tile Set/Dungeon Tile Set/::1718850321
 Dungeon Tile Set.png::CompressedTexture2D::7532376708492134479::1718760286::1718760286::1::::<><>::

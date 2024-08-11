@@ -15,6 +15,10 @@ run/main_scene="res://Dte-Game-Run-adn-Gun/world.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+GameManger="*res://Dte-Game-Run-adn-Gun/GameManger.gd"
+
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/AS2P/plugin.cfg")
