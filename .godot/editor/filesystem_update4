@@ -1,12 +1,6 @@
+res://Dte-Game-Run-adn-Gun/menu.tscn
 res://Dte-Game-Run-adn-Gun/Foxy.tscn
 res://Dte-Game-Run-adn-Gun/world.tscn
 res://Dte-Game-Run-adn-Gun/cupcake.tscn
 res://Dte-Game-Run-adn-Gun/evil_cupcake.tscn
 res://Dte-Game-Run-adn-Gun/vanish.tscn
-res://Dte-Game-Run-adn-Gun/cupcake.gd
-res://Dte-Game-Run-adn-Gun/GameManger.gd
-res://Dte-Game-Run-adn-Gun/Label.gd
-res://Dte-Game-Run-adn-Gun/evil_cupcake.gd
-res://Dte-Game-Run-adn-Gun/menu.tscn
-res://Dte-Game-Run-adn-Gun/Start.gd
-res://Dte-Game-Run-adn-Gun/Quit.gd
