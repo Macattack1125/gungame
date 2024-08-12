@@ -11,13 +11,13 @@ config_version=5
 [application]
 
 config/name="Dte Run and Gun"
-run/main_scene="res://Dte-Game-Run-adn-Gun/menu.tscn"
+run/main_scene="res://Scenes/menu.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
 
-GameManger="*res://Dte-Game-Run-adn-Gun/GameManger.gd"
+GameManger="*res://GameManger.gd"
 
 [display]
 
@@ -26,7 +26,7 @@ window/stretch/aspect="expand"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/AS2P/plugin.cfg")
+enabled=PackedStringArray()
 
 [input]
 
